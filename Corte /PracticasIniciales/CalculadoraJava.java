@@ -1,3 +1,4 @@
+package Calculator;
 public class calculator {
     public calculator(){
         
@@ -29,4 +30,5 @@ public static void main(string[]args){
     system.out.println(mycalculator.substract(45, 11));
     system.out.println(mycalculator.multiply(3, 2));
  }
+
 }
